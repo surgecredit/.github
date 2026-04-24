@@ -1,9 +1,11 @@
 ## Surge: A Bitcoin Native Credit Line
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47">
-  <img alt="Surge Build" src="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47" width="100%">
-</picture>
+<a href="https://app.surge.credit" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47">
+    <img alt="Surge Build" src="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47" width="100%">
+  </picture>
+</a>
 
 ---
 
