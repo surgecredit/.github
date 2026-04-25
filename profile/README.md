@@ -1,4 +1,4 @@
-## Surge: A Bitcoin Native Credit Line
+## Surge: Bitcoin-native Dollar Credit Line
 <a href="https://app.surge.credit" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8a9b03d-bfaa-4b01-af08-d160560e5f47">
